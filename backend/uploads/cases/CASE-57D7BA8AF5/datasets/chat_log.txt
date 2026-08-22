@@ -1,0 +1,11 @@
+John:
+Can you send me the VPN password?
+
+Alex:
+Sure.
+
+John:
+Also send the confidential database.
+
+Alex:
+I will delete the logs afterwards.

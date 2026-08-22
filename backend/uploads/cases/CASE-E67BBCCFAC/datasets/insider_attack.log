@@ -1,0 +1,6 @@
+2026-08-01 15:20:01 LOGIN_SUCCESS user=employee01 ip=192.168.10.15
+2026-08-01 15:21:14 FILE_ACCESS user=employee01 file=/confidential/finance.xlsx
+2026-08-01 15:22:40 FILE_ACCESS user=employee01 file=/confidential/salary.csv
+2026-08-01 15:23:18 FILE_DOWNLOAD user=employee01 file=/confidential/salary.csv
+2026-08-01 15:23:50 FILE_DOWNLOAD user=employee01 file=/confidential/finance.xlsx
+2026-08-01 15:24:20 LOG_DELETE user=employee01

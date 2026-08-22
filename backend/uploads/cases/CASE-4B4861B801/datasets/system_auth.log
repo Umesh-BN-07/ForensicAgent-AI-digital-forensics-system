@@ -1,0 +1,11 @@
+2026-07-20 10:30:01 LOGIN_SUCCESS user=umesh ip=192.168.1.10
+2026-07-20 10:31:04 LOGIN_FAILED user=admin ip=45.33.22.10
+2026-07-20 10:31:06 LOGIN_FAILED user=admin ip=45.33.22.10
+2026-07-20 10:31:08 LOGIN_FAILED user=admin ip=45.33.22.10
+2026-07-20 10:31:10 LOGIN_FAILED user=admin ip=45.33.22.10
+2026-07-20 10:31:12 LOGIN_FAILED user=admin ip=45.33.22.10
+2026-07-20 10:31:14 LOGIN_FAILED user=admin ip=45.33.22.10
+2026-07-20 10:31:18 LOGIN_SUCCESS user=admin ip=45.33.22.10
+2026-07-20 10:32:01 FILE_ACCESS user=admin file=/confidential/database.csv
+2026-07-20 10:32:15 FILE_DOWNLOAD user=admin file=/confidential/database.csv
+2026-07-20 10:33:02 LOG_DELETE user=admin
